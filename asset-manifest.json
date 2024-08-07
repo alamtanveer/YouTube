@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "%7Balamtanveer%7D.github.io/%7BYouTube%7D/static/css/main.b7655e1f.chunk.css",
-    "main.js": "%7Balamtanveer%7D.github.io/%7BYouTube%7D/static/js/main.3383a841.chunk.js",
-    "main.js.map": "%7Balamtanveer%7D.github.io/%7BYouTube%7D/static/js/main.3383a841.chunk.js.map",
-    "runtime~main.js": "%7Balamtanveer%7D.github.io/%7BYouTube%7D/static/js/runtime~main.de9e6853.js",
-    "runtime~main.js.map": "%7Balamtanveer%7D.github.io/%7BYouTube%7D/static/js/runtime~main.de9e6853.js.map",
-    "static/js/2.8e49cd34.chunk.js": "%7Balamtanveer%7D.github.io/%7BYouTube%7D/static/js/2.8e49cd34.chunk.js",
-    "static/js/2.8e49cd34.chunk.js.map": "%7Balamtanveer%7D.github.io/%7BYouTube%7D/static/js/2.8e49cd34.chunk.js.map",
-    "static/js/3.3b6fb9ae.chunk.js": "%7Balamtanveer%7D.github.io/%7BYouTube%7D/static/js/3.3b6fb9ae.chunk.js",
-    "static/js/3.3b6fb9ae.chunk.js.map": "%7Balamtanveer%7D.github.io/%7BYouTube%7D/static/js/3.3b6fb9ae.chunk.js.map",
-    "index.html": "%7Balamtanveer%7D.github.io/%7BYouTube%7D/index.html",
-    "precache-manifest.8766a934299f993b412516338555fdf3.js": "%7Balamtanveer%7D.github.io/%7BYouTube%7D/precache-manifest.8766a934299f993b412516338555fdf3.js",
-    "service-worker.js": "%7Balamtanveer%7D.github.io/%7BYouTube%7D/service-worker.js",
-    "static/css/main.b7655e1f.chunk.css.map": "%7Balamtanveer%7D.github.io/%7BYouTube%7D/static/css/main.b7655e1f.chunk.css.map"
+    "main.css": "/YouTube/static/css/main.b7655e1f.chunk.css",
+    "main.js": "/YouTube/static/js/main.3383a841.chunk.js",
+    "main.js.map": "/YouTube/static/js/main.3383a841.chunk.js.map",
+    "runtime~main.js": "/YouTube/static/js/runtime~main.01e8aee4.js",
+    "runtime~main.js.map": "/YouTube/static/js/runtime~main.01e8aee4.js.map",
+    "static/js/2.8e49cd34.chunk.js": "/YouTube/static/js/2.8e49cd34.chunk.js",
+    "static/js/2.8e49cd34.chunk.js.map": "/YouTube/static/js/2.8e49cd34.chunk.js.map",
+    "static/js/3.3b6fb9ae.chunk.js": "/YouTube/static/js/3.3b6fb9ae.chunk.js",
+    "static/js/3.3b6fb9ae.chunk.js.map": "/YouTube/static/js/3.3b6fb9ae.chunk.js.map",
+    "index.html": "/YouTube/index.html",
+    "precache-manifest.f33e40a82aeb2f27d3bf15bed09f6b17.js": "/YouTube/precache-manifest.f33e40a82aeb2f27d3bf15bed09f6b17.js",
+    "service-worker.js": "/YouTube/service-worker.js",
+    "static/css/main.b7655e1f.chunk.css.map": "/YouTube/static/css/main.b7655e1f.chunk.css.map"
   }
 }
